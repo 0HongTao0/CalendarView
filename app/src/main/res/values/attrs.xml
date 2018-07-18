@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--name：指定自定义属性所对应的自定义控件-->
+    <declare-styleable name="NewCalendar">
+        <!--name：自定义属性的名字-->
+        <!--format：自定义属性值的属性-->
+        <attr name="dateFormat" format="string"/>
+    </declare-styleable>
+</resources>
